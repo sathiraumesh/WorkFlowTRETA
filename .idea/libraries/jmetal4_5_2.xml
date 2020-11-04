@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jmetal4.5.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jmetal4.5.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
